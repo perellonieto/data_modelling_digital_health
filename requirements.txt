@@ -1,0 +1,9 @@
+numpy
+opencv-python
+nibabel
+scikit-learn
+sam2
+huggingface-hub
+nltk
+jupyter
+seaborn
